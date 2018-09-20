@@ -25,7 +25,7 @@ https://opengameart.org/ \
 http://www.derekyu.com/tigs/assemblee/ \
 http://pousse.rapiere.free.fr/tome/ \
 http://www.dumbmanex.com/bynd_freestuff.html \
-https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453\
+https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453 \
 https://game-icons.net/ \
 https://itch.io/game-assets/free/tag-pixel-art \
 
@@ -43,7 +43,7 @@ Characters(Neo has more details if current system is boring):\
 - Wis is mana
 - Stats influence weapon choices
 
-Combat:\
+Combat:
 - Realtime attack on a timer
 - Fighters have skills they bring into combat
 - Victory gives you experience
@@ -62,7 +62,7 @@ Overworld:
 - Tidal system(players damaged in high tide) maybe with lava where some squares are safe
 - Loot boxes
 
-=========== qanon643735(Restructuring and editing by ECH) ==========\
+=========== qanon643735(Restructuring and editing by ECH) ==========
 
 Mechanics: \
 real time final fantasy combat\
