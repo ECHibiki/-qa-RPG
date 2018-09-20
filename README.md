@@ -5,13 +5,13 @@ Pastebin done by qanon643735, edited by ECH https://pastebin.com/BSkWbtgG
 \
 game dev discussion: rizon #qa\
  \
-volunteer distribution (<Vacant> means no one has taken it)\
+volunteer distribution (Vacant means no one has taken it)\
 programming: ECHibiki\
 organizing: ECHibiki\
-music: Possibly ECHibiki otherwise <Vacant>\
-sprite work: <Vacant>\
+music: Possibly ECHibiki otherwise Vacant\
+sprite work: Vacant\
 level designers: J_\
-enemy designers: <Vacant>\
+enemy designers: Vacant\
 character/class designers: neo\
 idea guys: /qa/\
 \
