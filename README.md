@@ -20,36 +20,36 @@ idea guys: /qa/\
 __Core_mecanics__\
 Some things need to be worked out before I can write up a test program\
 \
-Programmer Art:\
-https://opengameart.org/\
-http://www.derekyu.com/tigs/assemblee/\
-http://pousse.rapiere.free.fr/tome/\
-http://www.dumbmanex.com/bynd_freestuff.html\
+Programmer Art: \
+https://opengameart.org/ \
+http://www.derekyu.com/tigs/assemblee/ \
+http://pousse.rapiere.free.fr/tome/ \
+http://www.dumbmanex.com/bynd_freestuff.html \
 https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453\
-https://game-icons.net/\
-https://itch.io/game-assets/free/tag-pixel-art\
+https://game-icons.net/ \
+https://itch.io/game-assets/free/tag-pixel-art \
 
 Characters(Neo has more details if current system is boring):\
-- Characters are based on main classes that get promotions into new classes.\
-- Characters get promotion points on leveling up.\
-- Promotions effect the skills, stats and have the possibility to redefine a class.\
-- Promotions are done on a tree.\
-- Respecs are possible\
-- Inventory is not weighted(no overburdened)\
-- Just infinite capacity(A diablo2 row system is out of scope for this project)\
-- At the moment a 5 stat system[str, con, dex, int, wis]\
-- Str decides armour which gives a defence stat. \
-- Con decides Hp\
-- Wis is mana\
-- Stats influence weapon choices\
+- Characters are based on main classes that get promotions into new classes.
+- Characters get promotion points on leveling up.
+- Promotions effect the skills, stats and have the possibility to redefine a class.
+- Promotions are done on a tree.
+- Respecs are possible
+- Inventory is not weighted(no overburdened)
+- Just infinite capacity(A diablo2 row system is out of scope for this project)
+- At the moment a 5 stat system[str, con, dex, int, wis]
+- Str decides armour which gives a defence stat. 
+- Con decides Hp
+- Wis is mana
+- Stats influence weapon choices
 
 Combat:\
-- Realtime attack on a timer\
-- Fighters have skills they bring into combat\
-- Victory gives you experience\
-?Victory gives you items?\
-?How do stats work in combat?\
-?How do enemies work in combat?\
+- Realtime attack on a timer
+- Fighters have skills they bring into combat
+- Victory gives you experience
+?Victory gives you items?
+?How do stats work in combat?
+?How do enemies work in combat?
 \
 Overworld:
 - Players traverse dungeons with a team
