@@ -15,7 +15,7 @@ enemy designers: Vacant\
 character/class designers: neo\
 idea guys: /qa/\
 \
-========== ECH ==========\
+========== ECH ==========
 \
 __Core_mecanics__\
 Some things need to be worked out before I can write up a test program\
@@ -29,7 +29,7 @@ https://www.deviantart.com/7soul1/art/420-Pixel-Art-Icons-for-RPG-129892453 \
 https://game-icons.net/ \
 https://itch.io/game-assets/free/tag-pixel-art \
 
-Characters(Neo has more details if current system is boring):\
+Characters(Neo has more details if current system is boring):
 - Characters are based on main classes that get promotions into new classes.
 - Characters get promotion points on leveling up.
 - Promotions effect the skills, stats and have the possibility to redefine a class.
@@ -47,9 +47,9 @@ Combat:
 - Realtime attack on a timer
 - Fighters have skills they bring into combat
 - Victory gives you experience
-?Victory gives you items?
-?How do stats work in combat?
-?How do enemies work in combat?
+?Victory gives you items?\
+?How do stats work in combat?\
+?How do enemies work in combat?\
 \
 Overworld:
 - Players traverse dungeons with a team
@@ -106,7 +106,7 @@ Characters are based on main classes that get promotions into new classes.\
 Characters get promotion points on leveling up.\
 Promotions effect the skills, stats and have the possibility to redefine a class.\
 Promotions are done on a tree.\
-Respecs are possible\
+Respecs are possible
  
 Combat:\
 Realtime attack on a timer\
@@ -143,4 +143,4 @@ one player character as the party leader and map avatar\
  \
 difficulty scaled by party size and a little bit by subgroup size\
 subgroups composed of nearby party members\
-3 seconds to join on encounter\
+3 seconds to join on encounter
